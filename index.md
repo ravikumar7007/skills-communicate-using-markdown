@@ -18,3 +18,7 @@ console.log(c)
 ```bash
 $ git init
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

@@ -5,4 +5,16 @@
 ##### this is h5
 ###### this is h6
 
-![Image of Hulatocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Image of Hulatocat" height="400px" />
+
+```js
+var a = 4
+var b = 5
+var c = a + b
+console.log(c)
+```
+
+```bash
+$ git init
+```
